@@ -1,4 +1,4 @@
-> This is my sandbox to try several features and technologies I want to try 
+> This is my sandbox to try several features and technologies I want 
   to get familiar with. While working on my last job at AI-startup I was faced 
   with tasks, that I think could be (or even must be) simplified or automated.
 > This happened while:
@@ -11,6 +11,7 @@
 - [ ] Try `Pipenv`
 - [ ] Try `Docker`
 
+______
 
 - [ ] Try to create type-templates for issues
 - [ ] Try GitHub actions
@@ -21,12 +22,14 @@
 - [ ] Try to set (and auto set) code owner and code reviewer
 - [ ] Try to setup CI/CD
 
+______
 
 - [ ] Try `pytest`
   - [ ] Try unit testing with `pytest`
   - [ ] Try integrated testing with `pytest`
 - [ ] Try test-driven development
 
+______
 
 - [ ] Try to setup Git Hooks: linting, `mypy`, ... (pre-commit, pre-push)
 - [ ] Try Git-secrets (Git Hooks)
